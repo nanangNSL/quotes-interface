@@ -1,0 +1,37 @@
+.container {
+  border-image: linear-gradient(#0d6efd, #fd9c0d) 30;
+  border-width: 4px;
+  border-style: solid;
+  width: 50vw;
+  padding: 1%;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+.container-fluid {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
+.card-quotes {
+  width: 100%;
+  height: 100%;
+  background-color: #fd9c0d;
+  border-radius: 5px;
+  padding: 2px;
+  margin-top: 5px;
+}
+.btn {
+  float: right;
+}
+.pagination {
+  display: flex;
+  text-align: center;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 2px;
+}

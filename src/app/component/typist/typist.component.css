@@ -1,0 +1,28 @@
+.container{
+    width: 50vw;
+    padding: 1%;
+    display: flex;
+    flex-direction: row;
+}
+.container-fluid{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+form{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+#exampleInputUsername1{
+    width:300px !important;
+
+}
+

@@ -1,0 +1,19 @@
+.css-3d-text {
+    font-size: 70px;
+    color: #fd9d0d;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 0px 0px 0 rgb(248,152,8),
+                 0px 1px 0 rgb(243,147,3),
+                 0px 2px 0 rgb(238,142,0),
+                 0px 3px 0 rgb(233,137,0),
+                 0px 4px 0 rgb(228,132,0),
+                 0px 5px 0 rgb(223,127,0),
+                 0px 6px 0 rgb(218,122,0),
+                 0px 7px 0 rgb(213,117,0),
+                 0px 8px 0 rgb(208,112,0),
+                 0px 9px 0 rgb(203,107,0),
+                 0px 10px  0 rgb(198,102,0),
+                 0px 11px 10px rgba(13,109,253,0.6),
+                 0px 11px 1px rgba(13,109,253,0.5),
+                 0px 0px 10px rgba(13,109,253,.2);
+ }
